@@ -1,0 +1,61 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [24.105078, 56.946285]
+        },
+        "properties": {
+          "name": "Riga Old Town",
+          "description": "Riga's historic center, famous for its medieval architecture and vibrant atmosphere."
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [23.793877, 56.972008]
+        },
+        "properties": {
+          "name": "Jūrmala",
+          "description": "A popular seaside resort with sandy beaches and lush pine forests."
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [25.284268, 57.441926]
+        },
+        "properties": {
+          "name": "Gauja National Park",
+          "description": "Latvia's largest national park, known for its picturesque landscapes and ancient castles."
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [21.010806, 56.504667]
+        },
+        "properties": {
+          "name": "Liepāja",
+          "description": "A port city on the Baltic coast, known for its music festivals and cultural heritage."
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [26.516568, 55.870707]
+        },
+        "properties": {
+          "name": "Daugavpils Fortress",
+          "description": "A 19th-century fortress in Daugavpils, offering a glimpse into Latvia's military history."
+        }
+      }
+    ]
+  }
+  
